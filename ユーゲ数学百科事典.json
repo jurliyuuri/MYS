@@ -1,0 +1,201 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "wis"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "0", "零", "ゼロ" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "0", "零", "ゼロ" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "o"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "1", "一" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "1", "一" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "ku"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "2", "二" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "2", "二" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "ri"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "3", "三" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "3", "三" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "tsu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "4", "四" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "4", "四" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "na"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "5", "五" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "5", "五" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "chen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "6", "六" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "6", "六" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "bua"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "7", "七" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "7", "七" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "nir"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "8", "八" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "8", "八" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "was"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "9", "九" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "9", "九" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "markitta fo yuuge suumanak"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ユーゲ数学百科事典" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "markitta fo yuuge suumanakは、基本的なユーゴック語の知識やユーゲ平原の理解を仮定したうえでユーゲ数学を理解するのに必要なことを数詞から数学史や実際の理論に至るまで説明することを目標にIzertii=Nesteriuにより編纂されている事典、要はこの事典のことである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "formFontFamily" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
