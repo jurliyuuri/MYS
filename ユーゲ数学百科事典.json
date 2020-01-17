@@ -175,6 +175,501 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "tur"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "10", "十", "10^1", "e1" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "10", "十", "10^1", "e1" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "1) ku tur 「20」 (cf. ku「2」)\n2) ri tur o 「31」 (cf. ri「3」, o「1」)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "gur"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "100", "百", "10^2", "e2" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "100", "百", "10^2", "e2" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "1) ri gur ku tur na 「325」 (cf. ri「3」, ku「2」, na「5」)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "kier"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "1000", "千", "10^3", "e3" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "1000", "千", "10^3", "e3" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "raer"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "10000", "万", "一万", "1万", "10^4", "e4" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "10000", "万", "一万", "1万", "10^4", "e4" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "mar"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "100000", "十万", "10万", "10^5", "e5" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "100000", "十万", "10万", "10^5", "e5" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "gucher"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "1000000", "百万", "100万", "10^6", "e6" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "1000000", "百万", "100万", "10^6", "e6" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "toir"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "百億", "100億", "10^10", "e10" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "百億", "100億", "10^10", "e10" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "nyater"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "百兆", "100兆", "10^14", "e14" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "百兆", "100兆", "10^14", "e14" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "kaimir"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "百京", "100京", "10^18", "e18" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "百京", "100京", "10^18", "e18" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "tekyamner"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "百垓", "100垓", "10^22", "e22" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "百垓", "100垓", "10^22", "e22" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "imirgager"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "百\uD855\uDF71", "百秭", "100\uD855\uDF71", "100秭", "10^26", "e26" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "百\uD855\uDF71", "百秭", "100\uD855\uDF71", "100秭", "10^26", "e26" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "dergager"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "百穣", "100穣", "10^30", "e30" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "百穣", "100穣", "10^30", "e30" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 24,
+      "form" : "da"
+    },
+    "translations" : [ {
+      "title" : "接辞",
+      "forms" : [ "～倍" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "1) rida 「3倍」 (cf. ri「3」)\n2) 3da 「3倍」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 25,
+      "form" : "ros"
+    },
+    "translations" : [ {
+      "title" : "接辞",
+      "forms" : [ "～分の" ]
+    } ],
+    "tags" : [ "数詞" ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "1) turros o 「10分の1」 (cf. tur「10」, o「1」)\n2) 10ros 1 「10分の1」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 26,
+      "form" : "rar"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "点", "小数点" ]
+    } ],
+    "tags" : [ "数詞", "有日準拠" ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "1) ku gur tsu tur ri rar bua wis was na 「243.7095」 (cf. ku「2」, gur「100」, tsu「4」, tur「10」, ri「3」, bua「7」, wis「0」, was「9」, na「5」)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 27,
+      "form" : "pookeho"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "足し算", "たし算", "たしざん", "加算", "加法" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "たす", "加える", "たし算する" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ {
+      "title" : "格支配",
+      "text" : "/ree/同士を加える"
+    }, {
+      "title" : "語法",
+      "text" : "pookeho ri mo ri 「3と3を足す」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 28,
+        "form" : "dadin"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 29,
+        "form" : "pook"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 28,
+      "form" : "dadin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "和" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 27,
+        "form" : "pookeho"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 29,
+        "form" : "pook"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 29,
+      "form" : "pook"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "+", "たす", "足す", "プラス" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "1) o pook ku je ri. 「1+2=3」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 28,
+        "form" : "dadin"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 27,
+        "form" : "pookeho"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 30,
+      "form" : "zaseneho"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "ひく", "引く", "引き算する" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ {
+      "title" : "格支配",
+      "text" : "/ree/を/adi/から引く"
+    }, {
+      "title" : "語法",
+      "text" : "zaseneho ku adi ri 「3から2を引く」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 34,
+        "form" : "yarzin"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 31,
+        "form" : "zasen"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 33,
+        "form" : "zasenor"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 31,
+      "form" : "zasen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "-", "ひく", "引く", "マイナス" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "1) tur zasen ku je nir. 「10-2=8」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 34,
+        "form" : "yarzin"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 30,
+        "form" : "zaseneho"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 33,
+        "form" : "zasenor"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 33,
+      "form" : "zasenor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "引き算", "ひき算", "ひきざん", "減算", "減法" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 34,
+        "form" : "yarzin"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 31,
+        "form" : "zasen"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 30,
+        "form" : "zaseneho"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 34,
+      "form" : "yarzin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "差" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 31,
+        "form" : "zasen"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 30,
+        "form" : "zaseneho"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 33,
+        "form" : "zasenor"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 35,
+      "form" : "kokitupe"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "距離", "長さ" ]
+    } ],
+    "tags" : [ "度量衡", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 36,
+      "form" : "jimka"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "時間", "時刻", "時点" ]
+    } ],
+    "tags" : [ "度量衡", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "時間の単位としても用いる"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
