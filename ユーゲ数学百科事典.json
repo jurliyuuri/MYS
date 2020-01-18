@@ -438,8 +438,8 @@
       "title" : "格支配",
       "text" : "/ree/同士を加える"
     }, {
-      "title" : "語法",
-      "text" : "pookeho ri mo ri 「3と3を足す」"
+      "title" : "例文",
+      "text" : "1) pookeho ri mo ri 「3と3を足す」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -522,8 +522,8 @@
       "title" : "格支配",
       "text" : "/ree/を/adi/から引く"
     }, {
-      "title" : "語法",
-      "text" : "zaseneho ku adi ri 「3から2を引く」"
+      "title" : "例文",
+      "text" : "1) zaseneho ku adi ri 「3から2を引く」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -667,6 +667,265 @@
     "contents" : [ {
       "title" : "語法",
       "text" : "時間の単位としても用いる"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 37,
+      "form" : "iranak"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "十進法" ]
+    } ],
+    "tags" : [ "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 38,
+      "form" : "rokenak"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "二進法" ]
+    } ],
+    "tags" : [ "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 39,
+      "form" : "dekrin"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "積" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 41,
+        "form" : "gesir"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 40,
+        "form" : "gesiror"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 40,
+      "form" : "gesiror"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "掛け算", "かけ算", "かけざん", "乗算", "乗法" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 39,
+        "form" : "dekrin"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 41,
+        "form" : "gesir"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 41,
+      "form" : "gesir"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "かける", "掛ける", "掛け算する" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "×", "かける", "掛ける" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ {
+      "title" : "格支配",
+      "text" : "/ree/同士をかける"
+    }, {
+      "title" : "例文",
+      "text" : "1) gesir ku adi ri 「2と3を掛ける」\n2) ku gesir ri je chen. 「2×3=6」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 39,
+        "form" : "dekrin"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 40,
+        "form" : "gesiror"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 42,
+      "form" : "ritoka"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "三角", "3角", "三角形", "3角形" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 43,
+      "form" : "toka"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "図形", "形", "グラフ", "図" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 44,
+      "form" : "trom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "線" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 45,
+      "form" : "trommo"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "直線" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 46,
+      "form" : "takuitrom"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "曲線" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 47,
+      "form" : "baa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "面", "平面" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 48,
+      "form" : "hoobaa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "側面", "定規" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 49,
+      "form" : "rakormo"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "平面図形", "図形" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "平面の", "二次元の" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 50,
+      "form" : "tegre"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "表" ]
+    } ],
+    "tags" : [ "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 51,
+      "form" : "tektonar"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "グラフ" ]
+    } ],
+    "tags" : [ "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 52,
+      "form" : "daraa"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "^", "～乗", "累乗" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "有日準拠" ],
+    "contents" : [ {
+      "title" : "例文",
+      "text" : "1) ku daraa fo ri 「2の3乗」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
