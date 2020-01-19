@@ -656,22 +656,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 36,
-      "form" : "jimka"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "時間", "時刻", "時点" ]
-    } ],
-    "tags" : [ "度量衡", "有日準拠" ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "時間の単位としても用いる"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 37,
       "form" : "iranak"
     },
@@ -926,6 +910,198 @@
     "contents" : [ {
       "title" : "例文",
       "text" : "1) ku daraa fo ri 「2の3乗」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 53,
+      "form" : "firio"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "単位", "基準", "メジャー", "計量", "測量" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "時間の単位としても用いる"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 54,
+      "form" : "kokien"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "kokien", "コキエン" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "長さの単位であり、8.959290054m < 1kokien < 8.959290141mである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 55,
+      "form" : "nimkokien"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "nimkokien", "ニムコキエン", "ニンコキエン" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "長さの単位であり、8.959290054cm < 1nimkokien < 8.959290141cmである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 56,
+      "form" : "tserden"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "tserden", "ツェルデン" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "面積の単位であり、1tserden=4.4m^2である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 57,
+      "form" : "waaden"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "waaden", "ワーデン" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "容積の単位であり、底面積1tserden 高さ1nimkokienの直柱体のそれを意味する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 58,
+      "form" : "zuu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "zuu", "ズー", "日" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "時間の単位であり、自転周期を指す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 59,
+      "form" : "jimka"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "jimka", "時間", "ジンカ", "ジムカ", "時刻", "時点" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1/24日を指す時間の単位としても用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 60,
+      "form" : "fase"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "fase", "分", "パセ" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1/1440日を指す時間の単位である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 61,
+      "form" : "ichoze"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ichoze", "秒", "イチョゼ" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1/86400日を指す時間の単位である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 62,
+      "form" : "yaar"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "yaar", "ヤール", "週" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "4日間を意味する時間の単位である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 63,
+      "form" : "fuusa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "fuusa", "プーサ", "月" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "28日間を意味する時間の単位である。1/6kajimkaである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 64,
+      "form" : "kajimka"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "kajimka", "カジンカ", "カジムカ", "年" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "時間の単位であり、公転周期を表す。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
