@@ -1105,6 +1105,113 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 65,
+      "form" : "toarnen"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "toarnen", "トアルネン" ]
+    } ],
+    "tags" : [ "度量衡", "単位", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "質量の単位であり、6.0659633g < 1toarnen < 6.0659717gである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 66,
+      "form" : "atein"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "商" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 67,
+      "form" : "itsummo"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "式", "数式" ]
+    } ],
+    "tags" : [ "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 68,
+      "form" : "sudu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "そろばん", "算盤" ]
+    } ],
+    "tags" : [ "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 69,
+      "form" : "hvakke"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "角", "角度" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 70,
+      "form" : "foscher"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "円" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 71,
+      "form" : "foscheetsa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "円周" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 72,
+      "form" : "rotto"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "球" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
