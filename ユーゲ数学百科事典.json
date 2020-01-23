@@ -1212,6 +1212,61 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 73,
+      "form" : "razasuu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "整数" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 74,
+      "form" : "jor"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "以下", "以下で", "～以下", "～以下で", "以内", "以内で", "～以内", "～以内で" ]
+    }, {
+      "title" : "副詞",
+      "forms" : [ "以下", "以下で", "～以下", "～以下で", "以内", "以内で", "～以内", "～以内で" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 75,
+      "form" : "ser"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "以上", "以上の", "～以上", "～以上の" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 76,
+      "form" : "harjei"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "平行", "平行な", "平行である" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
