@@ -1267,6 +1267,106 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 77,
+      "form" : "tamasuu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "倍数" ]
+    } ],
+    "tags" : [ "算術", "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 78,
+      "form" : "diureromme"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "合同" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "合同な" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 79,
+      "form" : "kaatsasuu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "円周率", "π", "pi" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "有日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "4*Arctan1である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 80,
+      "form" : "kaktepa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "比例" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "比例している" ]
+    } ],
+    "tags" : [ "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 81,
+      "form" : "thoutsan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "速度", "速さ", "スピード" ]
+    } ],
+    "tags" : [ "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 82,
+      "form" : "teem"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "百分率", "パーセント", "percent", "%" ]
+    } ],
+    "tags" : [ "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 83,
+      "form" : "gurateonor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "パーセント", "percent", "%" ]
+    } ],
+    "tags" : [ "初等数学", "単位", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
