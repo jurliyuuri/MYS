@@ -1367,6 +1367,97 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 84,
+      "form" : "faan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "個数", "数", "数量", "個" ]
+    } ],
+    "tags" : [ "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 85,
+      "form" : "faana"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "数える", "数え上げる" ]
+    } ],
+    "tags" : [ "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 86,
+      "form" : "nas"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "数" ]
+    } ],
+    "tags" : [ "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 87,
+      "form" : "suu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "数" ]
+    } ],
+    "tags" : [ "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 88,
+      "form" : "suudan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "算数", "算数科" ]
+    } ],
+    "tags" : [ "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 89,
+      "form" : "suumanak"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "数学" ]
+    } ],
+    "tags" : [ "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 90,
+      "form" : "jommeir"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "比較", "比率", "比" ]
+    } ],
+    "tags" : [ "初等数学", "有日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
